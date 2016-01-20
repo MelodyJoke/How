@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">如何</string>
+    <string name="action_about">关于</string>
+    <string name="action_search">搜索</string>
+    <string name="action_settings">设置</string>
+    <string name="navigation_drawer_close">选择抽屉</string>
+    <string name="navigation_drawer_open">打开抽屉</string>
+    <string name="player_artist">By2</string>
+    <string name="player_name">我知道</string>
+    <string name="nav_album">专辑</string>
+    <string name="nav_artist">歌手</string>
+    <string name="nav_send">发送</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_song">单曲</string>
+    <string name="nav_title">社区</string>
+    <string name="nav_name">梅洛</string>
+    <string name="nav_info">一个杰迷。</string>
+    <string name="nav_queue">队列</string>
+    <string name="complete_loading">加载完成。</string>
+    <string name="about">作者: MelodyJoke\n日期: 15.11.24\n版本: 1.0.0</string>
+    <string name="ok">确定</string>
+    <string name="ticker">如何 正在播放音乐...</string>
+    <string name="sharedcontent">赶往Melody的主页。</string>
+    <string name="action_refresh">刷新</string>
+    <string name="title_activity_album">专辑</string>
+    <string name="title_activity_artist">歌手</string>
+    <string name="title_activity_queue">队列</string>
+    <string name="nav_online">在线</string>
+    <string name="online_message">正在联网请求列表...</string>
+    <string name="local_message">正在加载本地列表...</string>
+    <string name="download_message">正在下载音乐文件...</string>
+    <string name="download_error">文件下载失败</string>
+    <string name="download_picture">正在准备图片...</string>
+    <string name="picpre_complete">专辑封面 和 歌手图片 准备完成</string>
+    <string name="picpre_error">准备图片失败</string>
+    <string name="pause">已暂停</string>
+    <string name="action_mode">模式</string>
+    <string name="action_mode_repeat">列表循环</string>
+    <string name="action_mode_single">单曲循环</string>
+    <string name="action_mode_random">随机播放</string>
+</resources>
